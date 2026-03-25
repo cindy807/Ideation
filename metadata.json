@@ -1,0 +1,5 @@
+{
+  "name": "Hoodie Size Checker",
+  "description": "A simple web app to check member hoodie sizes and track distribution.",
+  "requestFramePermissions": []
+}
